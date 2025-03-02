@@ -2,6 +2,8 @@ import turtle
 import turtle as trt 
 from turtle import *
 import time
+import tkinter
+print("Tkinter is available")
 win=Screen()
 win.setup(1250,650)
 win.title('My Cute Baby')
